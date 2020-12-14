@@ -28,6 +28,11 @@ java
 
 * [缓存和数据库怎么保持一致](https://juejin.cn/post/6844903907726983181)
 
+spring
+---
+* [ioc]()
+* [aop]()
+
 Mysql
 ---
 * [mvcc](https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ)
@@ -35,6 +40,7 @@ Mysql
 dubbo
 ---
 * [服务暴露过程]()
+
 
 
 ES
