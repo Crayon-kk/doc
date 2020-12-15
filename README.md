@@ -30,6 +30,7 @@ java
 
 spring
 ---
+* [springboot两种部署方式](https://blog.csdn.net/qq_22638399/article/details/81506448)
 * [ioc]()
 * [aop]()
 
