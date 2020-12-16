@@ -40,11 +40,10 @@ Mysql
 
 dubbo
 ---
-* [服务暴露过程]()
+* [dubbo服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
 
 
 
 ES
 ===
-
 * [es中mapping字段详解](http://blog.ideawand.com/2017/09/23/notes-on-elasticsearch-mappings-and-kibana/)
