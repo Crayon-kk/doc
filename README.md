@@ -9,7 +9,7 @@ GIT
 
 java高阶
 ===
-并发
+JUC相关知识
 ---
 * [LockSupport](https://www.jianshu.com/p/f1f2cd289205)
 * [AQS Semaphore Semaphore CyclicBarrier](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/multi-thread/AQS%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8AAQS%E5%90%8C%E6%AD%A5%E7%BB%84%E4%BB%B6%E6%80%BB%E7%BB%93.md)
