@@ -21,7 +21,8 @@ java
 
 * [多线程高阶面试题](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/multi-thread/2020%E6%9C%80%E6%96%B0Java%E5%B9%B6%E5%8F%91%E8%BF%9B%E9%98%B6%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-
+垃圾回收
+---
 
 高并发问题
 ===
@@ -36,20 +37,31 @@ spring
 * [循环依赖]()
 * [bean初始化过程]()
 
+数据库
+===
 Mysql
 ---
 * [mvcc](https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ)
+
+
+redis
+---
+
+ES
+===
+* [es中mapping字段详解](http://blog.ideawand.com/2017/09/23/notes-on-elasticsearch-mappings-and-kibana/)
+
+分布式
+====
 
 dubbo
 ---
 * [dubbo服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
 
+操作系统
+====
+
 Linux
 ---
 * [常用命令]()
 
-
-
-ES
-===
-* [es中mapping字段详解](http://blog.ideawand.com/2017/09/23/notes-on-elasticsearch-mappings-and-kibana/)
