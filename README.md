@@ -67,5 +67,5 @@ dubbo
 
 Linux
 ---
-* [常用命令]()
+* [常用命令](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
 
