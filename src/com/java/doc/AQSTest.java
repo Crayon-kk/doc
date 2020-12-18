@@ -1,7 +1,5 @@
 package com.java.doc;
 
-import com.sun.xml.internal.ws.policy.privateutil.RuntimePolicyUtilsException;
-
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 

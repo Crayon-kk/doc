@@ -34,6 +34,7 @@ spring
 * [ioc]()
 * [aop]()
 * [循环依赖]()
+* [bean初始化过程]()
 
 Mysql
 ---
