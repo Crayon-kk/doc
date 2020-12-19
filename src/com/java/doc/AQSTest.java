@@ -9,7 +9,6 @@ public class AQSTest {
 
         ReentrantLock lock = new ReentrantLock();
 
-
         new Thread(() -> {
             try {
                 lock.lock();
