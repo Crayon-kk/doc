@@ -46,7 +46,7 @@ Mysql
 
 redis
 ---
-* [分布式锁](https://juejin.cn/post/6909095427321102344/)
+* [分布式锁分析](https://juejin.cn/post/6909095427321102344/)
 
 数据库和缓存
 ---
