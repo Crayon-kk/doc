@@ -37,6 +37,7 @@ spring
 * [循环依赖]()
 * [bean初始化过程]()
 * [bean的生命周期]()
+* [spring面试题](https://juejin.cn/post/6844903955072286727)
 
 数据库
 ===
