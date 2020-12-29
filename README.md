@@ -9,6 +9,12 @@ GIT
 
 java高阶
 ===
+集合
+---
+* [List]()
+* [Map]()
+
+
 JUC相关知识
 ---
 * [LockSupport](https://www.jianshu.com/p/f1f2cd289205)
