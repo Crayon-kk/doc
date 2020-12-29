@@ -45,8 +45,7 @@ spring
 * [bean的生命周期]()
 * [spring面试题](https://juejin.cn/post/6844903955072286727)
 * [BeanFactory与ApplicationContext的区别](https://juejin.cn/post/6908243996967960584)
-
-
+* [Servlet](https://juejin.cn/post/6844904087687954440)
 
 
 数据库
