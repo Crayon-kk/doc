@@ -53,6 +53,8 @@ spring
 Mysql
 ---
 * [mvcc](https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ)
+* [索引优化]()
+
 
 
 redis
