@@ -40,7 +40,7 @@ spring
 * [springboot两种部署方式](https://blog.csdn.net/qq_22638399/article/details/81506448)
 * [ioc]()
 * [aop]()
-* [循环依赖]()
+* [循环依赖](https://juejin.cn/post/6912384159755272199/)
 * [bean初始化过程]()
 * [bean的生命周期]()
 * [spring面试题](https://juejin.cn/post/6844903955072286727)
