@@ -24,7 +24,6 @@ JUC相关知识
 * [Volatile关键字](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
 * [ThreadLocal详解](https://mp.weixin.qq.com/s/LzkZXPtLW2dqPoz3kh3pBQ)
 
-
 * [多线程高阶面试题](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/multi-thread/2020%E6%9C%80%E6%96%B0Java%E5%B9%B6%E5%8F%91%E8%BF%9B%E9%98%B6%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
 jvm相关
@@ -38,6 +37,7 @@ jvm相关
 spring
 ---
 * [springboot两种部署方式](https://blog.csdn.net/qq_22638399/article/details/81506448)
+* [spring容器启动流程]()
 * [ioc]()
 * [aop]()
 * [循环依赖](https://juejin.cn/post/6912384159755272199/)
@@ -45,6 +45,7 @@ spring
 * [bean的生命周期]()
 * [spring面试题](https://juejin.cn/post/6844903955072286727)
 * [BeanFactory与ApplicationContext的区别](https://juejin.cn/post/6908243996967960584)
+* [spring中事务的传播行为]()
 * [Servlet](https://juejin.cn/post/6844904087687954440)
 
 
@@ -72,6 +73,7 @@ ES
 分布式
 ====
 * [分布式事务](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
+* [幂等性]()
 
 dubbo
 ---
