@@ -12,7 +12,7 @@ java高阶
 集合
 ---
 * [List](https://juejin.cn/post/6913917330955173896/)
-* [Map]()
+* [Map](https://www.cnblogs.com/yanzige/p/8392142.html)
 
 
 JUC相关知识
