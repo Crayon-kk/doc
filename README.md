@@ -13,6 +13,7 @@ java高阶
 ---
 * [List](https://juejin.cn/post/6913917330955173896/)
 * [Map](https://www.cnblogs.com/yanzige/p/8392142.html)
+* [CurrentHashMap]()
 
 
 JUC相关知识
