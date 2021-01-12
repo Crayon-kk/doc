@@ -81,6 +81,7 @@ ES
 dubbo
 ---
 * [dubbo服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
+* [dubbo服务发现过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
 
 rmq
 ---
