@@ -80,6 +80,7 @@ dubbo
 ---
 * [dubbo服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
 * [dubbo服务引用过程](https://mp.weixin.qq.com/s/9oDy1OPcfDaEhKD4eNUdOA)
+* [dubbo服务调用过程](https://mp.weixin.qq.com/s/9oDy1OPcfDaEhKD4eNUdOA)
 
 rmq
 ---
