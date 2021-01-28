@@ -94,3 +94,9 @@ Linux
 ---
 * [常用命令](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
 
+
+other
+====
+* [单点登录](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
+
+
