@@ -12,7 +12,7 @@ java高阶
 集合
 ---
 * [List](https://juejin.cn/post/6913917330955173896/)
-* [Map](https://www.cnblogs.com/yanzige/p/8392142.html)
+* [Map](https://juejin.cn/post/6914288440683003911/)
 * [CurrentHashMap](https://juejin.cn/post/6915399713780924424/)
 
 
