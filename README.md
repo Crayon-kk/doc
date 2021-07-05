@@ -93,6 +93,7 @@ rmq
 Linux
 ---
 * [常用命令](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
+* [tips](https://juejin.cn/post/6969083927524802567)
 
 
 other
